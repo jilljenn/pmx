@@ -1,97 +1,145 @@
 2 1 4 4 4 4 0 0
-0 5 16 0.085
+3 20 16 0.085
+Piano
+bt
+./
+It96ipi
 
 Tt
-Yelena
+Berlin Mist
 Tc
-JJV
+Yelena Wainman\\Transcribed by Jill-J\^enn Vie
 
-c0 | c | f | g /
-MR1 e4x3 g- c e g- b e g- b e g- b | e g- b e g- b e g- b e g- b M /
+% 1
+c02 | c /
+e44x3 g- c ex3 g- b ex3 g- c ex3 g- c | MR1 e4x3 g- c ex3 g- b ex3 g- b ex3 g- b M /
 
-c0 | f | c | rp /
-e4x3 g- b e g- b e g- b e g- b | e g- b e f- b e f- b e f- b /
+% 3
+f0 | g /
+MP1 | e4x3 f- b ex3 f- b dx3 f- b dx3 f- b /
 
-c4 c c c | f f f f /
-MP1 /
+% 5
+c02 | f /
+e4x3 g- c fx3 g- c ex3 g- c ex3 g- c | ex3 f- b ex3 f- a e+x3 f- a e+x3 f- a /
 
-c4 c c c | f f f f /
-MP1 /
+% 7
+c0 | rp /
+e4+x3 f- b f+x3 g- b ex3 g- b ex3 g- b | ex3 f- a e+x3 f- a e+x3 f- a e+x3 f- a /
+
+% 9
+MR13 c42 zg+ c- zg+ c- zg+ c- zg+ M | MP13 | MR14 f42 zc+ f- zc+ f- zc+ f- zc+ M | MP14 /
+MR12 e44x3 g- a e+x3 g- a e+x3 g- a e+x3 g- a M | MP12 | MP12 | MP12 /
+
+% 13
+c42 c c c | f f f f /
+e4+x3 f- a f+x3 g- a e+x3 g- a e+x3 g- a | e+x3 f- b ex3 f- b dx3 f- b dx3 f- b /
 % e g c f e 
 
-g4 g g g | a a a a | g g g g | g0 zb /
-MR10 c4x3 e a c e a c e a c e a M | MP10 | MP10 | c4 b c e /
+% 15
+g4 g g g | a a a a /
+c4x3 e- g cx3 e- g cx3 e- a cx3 e- a | c4x3 e- a cx3 e- a cx3 e- a cx3 e- a /
 
-% 1:00
-c4 c c c | f f f f | c c c c | f f f f /
-g2 zc ze g2x3- zc ze g- zc ze g- zc ze | f2- za ze+ f- za ze+ | g2- zb ze g- zb ze | rp /
+% 17
+g4 g g g | g0 zb /
+c4x3 f- g cx3 f- g cx3 f- g cx3 f- g | b4 b c e /
 
-a4 a a a | c c c c | f f f f | g g g g /
-a2 zc zd a2 zc zd | rp | rp | rp /
+% 19 1:00
+c42 c c c | f f f f / 
+MR10 g23 zc ze g-x3 zc ze g- zc ze g- zc ze | f2- za zc ze f-x3 za zc ze f- za zc ze f- za zc ze M /
 
-c2 c /
-e2 za ze e za ze /
+% 21
+c4 c c c | f f f f /
+g2- zb ze g-x3 zb ze g- zb ze g- zb ze | f2- za ze+ f-x3 za ze+ f- za ze+ f- za ze+ /
 
-% 1:18
-a2 a | a2 a4 g | f2 f | f f /
-MR2 e4x3 a e ex3 a e ex3 a e ex3 a e M | MP2 /
+% 23
+g4 g g g | c- c c c | f f f f | g g g g /
+g2- za ze+ g-x3 za zd g- za zd g- za zd | MP10 | g- za ze+ g-x3 za zd g- za zd g- za zd /
 
-g2 g | g g | f f | f f /
-MR3 g4x3 a e+ g- a e+ g- a e+ g- a e+ M | MP3 | MR4 f4x3 a e+ fx3- a e+ fx3- a e+ fx3- a e+ M | MP4 /
+% 27
+c2- c /
+f2- za ze+ e- za ze+ /
 
-g2 g | g g | f f | f f /
-MP3 | MP3 | MP4 | MP4 /
+% 28 1:18
+Rl a22 Ct a24 | Cb a22 Ct a44 g | Cb f22 Ct f24 | Cb f22 Ct f24 Rr /
+MR2 e43x3 a e+ e-x3 a e+ e-x3 a e+ e-x3 a e+ M | MP2 | MP2 | MP2 /
 
-% 2:06
-m2424 f8 d+ d d | f d d d | g- d+ d d | g- d+ d d /
-MR11 f8x3 a d f a d f a d f a d | g a d g a d g a d g a d M /
+% 32
+Rl Cb g22 Ct g24 | Cb g22 Ct g24 | Cb f22 Ct f24 | Cb f22 Ct f24 Rr /
+MR3 g43x3 a e+ g-x3 a e+ g-x3 a e+ g-x3 a e+ M | MP3 | MR4 f43x3 a e+ f-x3 a e+ f-x3 a e+ f-x3 a e+ M | MP4 /
 
-f8 d+ d d | f- d+ d d | g- d+ d d | g- d+ d d /
-MP11 | MP11 /
+% 36 2:06
+m2424 Rl MR15 f83 d+ d d | f- d+ d d M | MR16 g83 d+ d d | g- d+ d d M D"Loop $2\times$" Rr /
+MR11 f84x3 a d f-x3 a d f-x3 a d f-x3 a d M | MP11 | MR17 g84x3 a d g-x3 a d g-x3 a d g-x3 a d M | MP17 /
 
-f8 d+ d d | f d d d | g d d d | g d d d /
-MP11 | MP11 /
+% 40
+f83 d+ d d | f- d+ d d | g2- za zd | g- za zd /
+MP11 | MP11 | g24 za zd | g4- za zd g-x3 a d /
 
-f d+ d d | f d d d | g az zd /
-MP11 | MP11 | rp /
+% 44 2:29
+Cb d83 a+ a a | d- a+ a a /
+d84x3 a+ d d-x3 a+ d d-x3 a+ d d-x3 a+ d | d-x3 a+ c d-x3 a+ c d-x3 a+ b D"Fixed" d-x3 b+ d- /
 
-% 2:29
-d8 a a a | d a a a | f a a a | f a a a /
-MR5 d8x3 d- d+ dx3- d+ d- c+ d- c+ c- b+ c- M | MP5 | MP5 | MP5 /
+% 46
+d83 a+ a a | d- a+ a a /
+MR5 d85x3 d- d+ d-x3 d+ d- d+x3 d- d+ d-x3 d+ d- M | c85x3 d- c+ d-x3 c+ d- b+x3 d- b+ d-x3 b+ d- /
 
-c8- g+ g g | c- g+ g g | d- a+ a a | d- a+ a a /
-MR6 g8x3 d g dx3 g d gx3 d g dx3 g d M | MP6 | MP6 | MP6 /
+% 48
+f8 a a a | f a a a /
+MP5 | d85x3 d- d+ d-x3 d+ d- c+x3 d- b+ d-x3 a+ d- /
 
-f8 a f4 | f4 a | d8 a a a | d a a a /
-MP6 | MP6 | MP6 | MP6 /
+% 50
+c8- g+ g g | c- g+ g g /
+MR6 g8x3 d g dx3 g d gx3 d g dx3 g d M | g1 d g d g a b c /
 
-% 3:00
-f8 a a a | f a a a | c g g g | c g g g /
-MR7 bx3 d- a+ bx3 d- a+ bx3 d- a+ bx3 d- a+ M | MP7 | MP7 | MP7 /
+% 52
+d83 a+ a a | d- a+ a a /
+MR6 d85x3 d- a+ dx3 d- a+ dx3 d- a+ dx3 d- a+ | dx3 d- a+ dx3 d- a+ cx3 d- a+ cx3 d- a+ M /
 
-d8- a+ a a | d a a a | c- g+ g g | c g g g /
-MR8 bx3 c g+ bx3 c g bx3 c g bx3 c g M | MP8 | MP8 | MP8 /
-% b d g b d g
+% 54
+f8 a a a | f4 a | d83 a+ a a | d83 a+ a a /
+MR7 b84x3 d- a+ bx3 d- a+ bx3 d- a+ bx3 d- a+ M | bx3 d- a+ bx3 d- a+ bx3 d- a+ D"Fixed" bx3 a d- | MP6 /
+%MR6 b d- a+ b d- a+ b d- a+ b d- a+ M | MP6 /
 
-% 3:12
-d- a+ a a | d a a a /
-MR9 c8x3 e a cx3 e a cx3 e a cx3 e a M | MP9 /
+% 58 3:00
+f8 a a a | f a a a /
+MP7 | MP7 /
 
-% 3:16
-f1 f f f f f f f | g g g g g g g g |
-f f f e d | d c b /
+% 60
+c83 g+ g g | c- g+ g g /
+b8x3 d- a+ bx3 d- g bx3 d- g bx3 d- g | MR9 bx3 d- g bx3 d- g bx3 d- g bx3 d- g M /
 
-f1 f f f f f f f | d /
-c c c a g | d zf za d zf za d e f /
+% 62
+d83 a+ a a | d- a+ a a | c- g+ g g | c- g+ g g /
+MR8 b84x3 c- g+ bx3 c- g+ bx3 c- g+ bx3 c- g+ M | MP8 | MP9 | MP9 /
 
-f f | g g 
-f zb ze f zb ze f zb ze f zb zd e- zg zc g zb zd e f /
+% 66 3:12
+d83 a+ a a | d83 a+ a a /
+c85x3 d- a+ cx3 e- a cx3 e- a cx3 e- a | c85x3 e- a cx3 e- a cx3 e- a cx3 e- a /
 
-f f e d c /
+% 68 3:16
+m4444 f13 f f f f1 f f f f1 f f f f1 f f f /
+f24dx4 za zf+ f- za zf+ f- za zf+ f- za zf+ [uh+3 f8- za ze+ d ] /
 
-g g b d g /
+% 69
+g1 g g g g1 g g g g1 g g g g1 g g g /
+g2- zbf zd f4- za zc f- zbn /
 
-rp /
-f4x3 a d f a d f a d a+ /
+% 70
+f12 f f f f1 f f f f1 f f f f1 f f f | d2+ g /
+f4 zg zc f- zg zc d- zg zc [u+3 d8- zg za d- zg ] | d4 zf za d- zf za b- zd dx3 e f /
 
-%
+% 72
+f82d { f1 f8d } { f1 f8 } f f f | g8d { g1 g8 } g g8d g1 g4 /
+f4- zb ze f- zb ze [u+3 f8- zb ze f- zb zd ] r1 f- zb zd r f- zb zd | e4- zg zc e- zg zc g zb zd g4-x3 zb zd e f /
+
+% 74
+f8d { f1 f8d } { f1 f } f8 f1 f4x3 f f /
+f4- za zf+ [l f8d- za zf+ {A f1- {B za {C ze+ f- }A za }B ze+ }C f8- za ze+ f1- za ze+ ] [u+3 f4-x3 za ze+ f- za zd f- za zc ] /
+
+% 75
+g0 /
+g4 zb zd g- ? zb zc ? d g1- b d g- /
+
+% 76
+d82 { a+ a2d ofd } | rp /
+r4 f43x3 a d fx3 a d fx3 a d | a4+ a2d+ of /
